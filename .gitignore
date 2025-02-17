@@ -1,0 +1,19 @@
+# Python compiled files and cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+schnet_env/
+*.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
